@@ -1,7 +1,7 @@
-### Dengue analysis
+# Dengue analysis
 ## Name
 Emily Shi
 
-# answer
+### answer
 15747
 git.ignore to ignore the csv file
